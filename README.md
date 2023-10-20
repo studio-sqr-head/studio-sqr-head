@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @studio-sqr-head
+👋 Hi, I’m @studio-sqr-head
 
 
 <!---
